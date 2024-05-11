@@ -35,7 +35,7 @@ Join us on this journey of growth and impact! 🌟
 ### Our Socials:
 <p align="left">
 <a href="https://chat.whatsapp.com/Fkco8143F281Jcn9szCwwN" target="_blank" rel="noreferrer"><img src="whatsapp.svg" width="40" height="40" /></a>
-<a href="mailto:acm.club@umt.edu.pk" target="_blank" rel="noreferrer"><img src="gmail.svg" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/company/umt-acm-student-chapter/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="40" height="40" /></a>  
+<a href="mailto:acm.club@umt.edu.pk" target="_blank" rel="noreferrer"><img src="gmail.svg" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/company/umt-acm-student-chapter/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="44" height="44" /></a>  
 <a href="https://www.instagram.com/umt.acm/" target="_blank" rel="noreferrer"><img src="instagram.svg" width="40" height="40" /></a>
 </p>
