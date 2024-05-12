@@ -39,3 +39,7 @@ Join us on this journey of growth and impact! 🌟
 <a href="https://www.linkedin.com/company/umt-acm-student-chapter/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="44" height="44" /></a>  
 <a href="https://www.instagram.com/umt.acm/" target="_blank" rel="noreferrer"><img src="instagram.svg" width="40" height="40" /></a>
 </p>
+
+### Our Statistics:
+![<acmumtstudentchapter>'s Stats](https://github-readme-stats.vercel.app/api?username=acmumtstudentchapter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
